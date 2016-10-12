@@ -1,0 +1,1 @@
+var hello='hello world更舒适的护手霜';

@@ -1,0 +1,29 @@
+{
+  "name": "grunt-automatic-version",
+  "version": "0.0.1",
+  "description": "Add a custom version number to the static resource 自动给指定文件中的js css 添加版本号【例如：1.0.1.047ac20f】【主版本.次版本.修订.文件hash值前8位】",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.4.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-nodeunit": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shunzizhan/grunt-automatic-version.git"
+  },
+  "author": "shunzizhan",
+  "license": "ISC",
+  "keywords": [
+    "gruntplugin,cache control,version,hash"
+  ],
+  "bugs": {
+    "url": "https://github.com/shunzizhan/grunt-automatic-version/issues"
+  },
+  "homepage": "https://github.com/shunzizhan/grunt-automatic-version#readme"
+}
