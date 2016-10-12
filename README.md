@@ -12,9 +12,6 @@ npm install grunt-automatic-version --save
 #### 使用
 
 ```js
-  grunt.loadNpmTasks('grunt-automatic-version');
-```
-```js
 module.exports = function (grunt) {
   
   grunt.loadNpmTasks('grunt-automatic-version');
