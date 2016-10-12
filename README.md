@@ -1,4 +1,4 @@
-## grunt-automatic-version
+# grunt-automatic-version
 
 > 自动给指定文件中的js css 添加版本号【例如：1.0.1.047ac20f】【主版本.次版本.修订.文件hash值前8位】
 
