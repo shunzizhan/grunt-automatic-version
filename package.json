@@ -1,6 +1,6 @@
 {
   "name": "grunt-automatic-version",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Add a custom version number to the static resource",
   "main": "Gruntfile.js",
   "dependencies": {
